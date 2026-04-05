@@ -1,5 +1,4 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
 import About from "../views/About.vue";
 import RandomQuotes from "../views/RandomQuotes.vue";
 import Contact from "../views/Contact.vue";
